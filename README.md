@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-I'm currently learning:
 [![roadmap.sh](https://roadmap.sh/card/tall/64444da8e27257737494e53c?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 
 <!--
