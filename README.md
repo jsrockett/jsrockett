@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-[![roadmap.sh](https://roadmap.sh/card/tall/64444da8e27257737494e53c?variant=dark&roadmaps=frontend)](https://roadmap.sh)
-
 <!--
 **jsrockett/jsrockett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
